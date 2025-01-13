@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/1-Cakeneka-pink?style=flat&logo=github)](https://github.com/CakeNeka)&nbsp;&nbsp;
+[![Static Badge](https://img.shields.io/badge/1-victryx-pink?style=flat&logo=github)](https://github.com/victryx)&nbsp;&nbsp;
 [![Static Badge](https://img.shields.io/badge/2-Leo0756-black?style=flate&logo=github)](https://github.com/Leo0756)&nbsp;&nbsp;
-[![Static Badge](https://img.shields.io/badge/3-Mangus-orange?style=flat&logo=github)](https://github.com/Leo0756)&nbsp;&nbsp;
+[![Static Badge](https://img.shields.io/badge/3-Mangus-orange?style=flat&logo=github)](https://github.com/MangowDev)&nbsp;&nbsp;
 [![Static Badge](https://img.shields.io/badge/4-Iridescent-purple?style=flat&logo=github)](https://github.com/Iridescent1010)&nbsp;&nbsp;
 
 
